@@ -26,13 +26,14 @@ Lưu ý: Nếu dây chưa cắm hoặc có lỗi về cổng USB của mô hình
 ![image](https://github.com/tuandung1379/Collect-temperature-humidity/assets/92191400/86bf519b-312a-487e-ace4-b657cfba9158)
 
 Màn hình chia làm 2 nửa phải và trái, phía bên trái sẽ hiển thị thông tin nhiệt độ dưới dạng số và dưới dạng kim. Phía bên phải màn hình hiển thị thông số độ ẩm dưới dạng số và dạng thang đo như hình dưới:
- ![image](https://github.com/tuandung1379/Collect-temperature-humidity/assets/92191400/87411b74-420f-4e08-949c-8e2b260c6845)
+![image](https://github.com/tuandung1379/Collect-temperature-humidity/assets/92191400/ea87f7ba-70a0-47b3-a3ef-78b6731838af)
 
 •	Ô nhập ngưỡng nhiệt độ: Người dùng nhập vào mức nhiệt độ mà nếu thiết bị đo được trong môi trường đợt tới mức nhiệt này hoặc cao hơn thì hệ thống sẽ phát còi báo hiệu cảnh báo.
 
 •	Ô nhập ngưỡng độ ẩm: Tương tự như ngưỡng nhiệt độ, người dùng nhập vào mức độ ẩm mà nếu thiết bị phát hiện tới mức độ ẩm này hoặc cao hơn sẽ lập tức bật thiết bị quạt gắn với nó để làm giảm độ ẩm.
 
- ![image](https://github.com/tuandung1379/Collect-temperature-humidity/assets/92191400/4ac8f48d-b4c5-4ef2-8cfd-13e80e47e9e2)
+ ![image](https://github.com/tuandung1379/Collect-temperature-humidity/assets/92191400/9ce3cff0-a732-4e9d-a0cd-c6fd7b044b57)
+
 - Nút “Save” trên thanh công cụ có chức năng xuất thông tin nhiệt độ và độ ẩm đo được kể từ khi khởi chạy hệ thống, xuất dữ liệu ra file Excel, đồng thời trên hiển thị thông báo trên màn hình dòng chữ “Đã xuất file Excel”.
 
  ![image](https://github.com/tuandung1379/Collect-temperature-humidity/assets/92191400/09f71189-7f33-4005-bd05-5780f149c47f)
